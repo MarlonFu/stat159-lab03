@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 new changes
-=======
-hello 2
->>>>>>> 970893d7547ee252bca307a5866865bdf20694b8
